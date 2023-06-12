@@ -1,0 +1,14 @@
+.form--checkout{
+    text-align: left;
+}
+
+.input__checkout{
+    display: block;
+}
+.input__checkout input{
+    width: 100%;
+}
+.input__checkout label{
+    width: 100%;
+    display: block;
+}
